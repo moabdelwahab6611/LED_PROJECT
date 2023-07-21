@@ -1,5 +1,4 @@
-# LED Project
-## 8 LED Project 
+# LED Project 
 
 ### Description : 
 Project in c programming language to turn on, off and toggle 8 yellow led and user can adjust how many led can turn on, turn off, toggle as he or she desire from application.c the c source file.
