@@ -4,7 +4,7 @@
 Project in c programming language to turn on, off and toggle 8 yellow led and user can adjust how many led can turn on, turn off, toggle as he or she desire from application.c the main c source file.
 
 ### Requirements :
-To build, compile and run this project successfully you need to use MPLAB X IDE with XC8 compiler, PIC18F4620 8-Bit Micro-conroller, pickit3m  and 8 led.
+To build, compile and run this project successfully you need to use MPLAB X IDE with XC8 compiler, PIC18F4620 8-Bit Micro-conroller, pickit3  and 8 led.
 
 ### Tools & Equipments Used :
 1 - MPLAB X IDE
